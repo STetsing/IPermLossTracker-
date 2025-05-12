@@ -26,7 +26,7 @@ Impermanent loss is the temporary loss of funds experienced by liquidity provide
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/IPermLossTracker.git
+git clone https://github.com/STetsing/IPermLossTracker.git
 cd IPermLossTracker
 ```
 
